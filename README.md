@@ -2,6 +2,8 @@
 
 Pronouns: she/her/ella
 
+check out my website: https://catherine-m-breen.github.io/
+
 <!--
 **catherine-m-breen/catherine-m-breen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
