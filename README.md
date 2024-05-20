@@ -6,8 +6,8 @@ check out my website: https://catherine-m-breen.github.io/
 
 Below are the code projects I am currently working on: 
 - **snowpoles** -- a repository for a keypoint detection model to extract snow depth from snowpoles. Paper is under review at Water Resources Research!
-- **CV4Ecology/snow-Dayz** -- beta-model for a classifier to detect winter weather from camera traps using combined audio and visual information. Come check out the paper at CVPR Seattle 2024!
-
+- **CV4EcologySchool/snow-Dayz** -- beta-model for a classifier to detect winter weather from camera traps using combined audio and visual information. Come check out the paper at CVPR Seattle 2024!
+- **camera-traps-to-validate-satellites** -- code for the paper in Remote Sensing of Environment. This was the first ever study to use an active wildlife camera network to validate satellites for snow! 
 
 <!--
 **catherine-m-breen/catherine-m-breen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
