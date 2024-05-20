@@ -4,9 +4,9 @@ Pronouns: she/her/ella
 
 check out my website: https://catherine-m-breen.github.io/
 
-Below are the projects I am currently working on: 
-- snowpoles -- a repository for a keypoint detection model to extract snow depth from snowpoles. Paper is under review at Water Resources Research!
-- CV4Ecology/snow-Dayz -- beta-model for a classifier to detect winter weather from camera traps using combined audio and visual information. Come check out the paper at CVPR Seattle 2024!
+Below are the code projects I am currently working on: 
+- **snowpoles** -- a repository for a keypoint detection model to extract snow depth from snowpoles. Paper is under review at Water Resources Research!
+- **CV4Ecology/snow-Dayz** -- beta-model for a classifier to detect winter weather from camera traps using combined audio and visual information. Come check out the paper at CVPR Seattle 2024!
 
 
 <!--
